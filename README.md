@@ -1,3 +1,7 @@
+This project is a front page website displaying student thesis projects I
+developed in 2019. I used react (building from create-react-app) python, and
+commong web tools (HTML, SCSS).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
